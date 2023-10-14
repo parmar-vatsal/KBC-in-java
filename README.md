@@ -21,3 +21,9 @@ To play KBC, follow these simple steps:
 1. **Clone the Repository:**
    ```shell
    git clone https://github.com/parmar-vatsal/KBC-in-java.git
+
+2. **Run The Code:**
+   ```shell
+   cd KBC-in-java
+   javac Project.java
+   java Project
